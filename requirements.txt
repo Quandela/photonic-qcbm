@@ -1,0 +1,9 @@
+perceval-quandela~=0.10.3
+scikit-learn
+matplotlib
+ipykernel
+jupyter
+pandas
+numpy
+torch
+pytest
