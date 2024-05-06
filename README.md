@@ -1,6 +1,6 @@
 # An error-mitigated photonic QCBM
 
-This repository is associated to (add arXiv link).
+This repository is associated to [An error-mitigated photonic quantum circuit Born machine](https://arxiv.org/abs/2405.02277).
 
 The original code for the QCBM was written by Tigran Sedrakyan and Alexia Salavrakos. James Mills wrote the code for photon recycling. 
 
